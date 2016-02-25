@@ -15,7 +15,8 @@
 
 # Configuration for the Liberty container
 ---
-repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/"
+#repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/"
+repository_root: "http://172.19.44.220:53229/blueprints/cfyrep/scripts/"
 version: 8.5.+
 type: webProfile7
 minify: false

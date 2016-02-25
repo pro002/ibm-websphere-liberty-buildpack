@@ -15,7 +15,8 @@
 
 # Configuration for JRE repository
 ---
-repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/jre"
-version: 1.8.+
+#repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/jre"
+repository_root: "http://172.19.44.220:53229/blueprints/cfyrep/scripts/"
+version: 1.7.+
 
 heap_size_ratio: 0.75
